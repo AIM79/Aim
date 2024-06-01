@@ -1,5 +1,3 @@
 import os
 os.system('xdg-open https://chat.whatsapp.com/BAqyuTzIaVI0FhMe3c1fKF')
-import time
-time.sleep (1.5)
-exit('Please Wait...')
+os.system("./ALIZA")
