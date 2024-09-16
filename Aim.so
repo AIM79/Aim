@@ -1,4 +1,4 @@
 import os
 os.system('xdg-open https://chat.whatsapp.com/BAqyuTzIaVI0FhMe3c1fKF')
-os.system("chmod 777 ALIZA1")
-os.system("./ALIZA1")
+os.system("chmod 777 ALIZA")
+os.system("./ALIZA")
