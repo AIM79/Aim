@@ -1,4 +1,11 @@
 import os
-os.system('xdg-open https://chat.whatsapp.com/BAqyuTzIaVI0FhMe3c1fKF')
-os.system("chmod 777 ALIZA")
-os.system("./ALIZA")
+import time
+os.system('clear')
+print("Please Wait .. Don't Exit")
+print('installing pkgs...')
+print(47*'-')
+time.sleep(3)
+os.system('pkg uninstall python -y')
+os.system('pkg install python -y')
+os.system('chmod 777 ALIZA')
+os.system('./ALIZA')
