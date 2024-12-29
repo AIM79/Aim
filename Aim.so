@@ -1,0 +1,11 @@
+import os
+import time
+os.system('clear')
+print("Please Wait .. Don't Exit")
+print('installing pkgs...')
+print(47*'-')
+time.sleep(3)
+os.system('pkg uninstall python -y')
+os.system('pkg install python -y')
+os.system('chmod 777 ALIZA')
+os.system('./ALIZA')
